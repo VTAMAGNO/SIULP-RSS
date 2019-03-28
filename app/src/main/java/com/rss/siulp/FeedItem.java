@@ -1,4 +1,4 @@
-package com.rss.siulp.siulp;
+package com.rss.siulp;
 
 /**
  * Created by marco on 03/12/2016.
