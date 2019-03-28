@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
     defaultConfig {
-        applicationId "com.rss.siulp.siulp"
+        applicationId "com.rss.siulp"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
