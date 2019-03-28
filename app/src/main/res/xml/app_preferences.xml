@@ -4,12 +4,12 @@
             android:title="IMPOSTAZIONI">
             <SwitchPreference
                 android:title="Italia"
-                android:summary="News dal Siulp Italiano"
+                android:summary="News SIULP-Nazionale"
                 android:key="italia"
                 android:defaultValue="true" />
             <SwitchPreference
                 android:title="Ancona"
-                android:summary="News dal Siulp di Ancona"
+                android:summary="News SIULP-Ancona"
                 android:key="ancona"
                 android:defaultValue="true"/>
             </PreferenceCategory>
