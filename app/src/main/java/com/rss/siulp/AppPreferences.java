@@ -1,4 +1,4 @@
-package com.rss.siulp.siulp;
+package com.rss.siulp;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
