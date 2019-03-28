@@ -12,7 +12,7 @@
     android:background="#f3f7ff"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.rss.siulp.siulp.RSSActivity"
+    tools:context="com.rss.siulp.RSSActivity"
     tools:showIn="@layout/activity_rss">
 
     <android.support.v7.widget.RecyclerView
